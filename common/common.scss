@@ -1,49 +1,49 @@
 .discourse-tag[href="/tags/approved"] {
-    color: #090 !important
+    color: #090 !important;
 }
 
 .discourse-tag[href="/tags/approved"]:hover {
-    color: green
+    color: green;
 }
 
 .discourse-tag[href="/tags/follow-up"] {
-    color: #900 !important
+    color: #900 !important;
 }
 
 .discourse-tag[href="/tags/follow-up"]:hover {
-    color:red
+    color:red;
 }
 
 #topic-footer-button-approve {
-    background: #090
-    color:#fff
+    background: #090;
+    color:#fff;
 }
 
 #topic-footer-button-approve .d-icon {
-    color:#fff
+    color:#fff;
 }
 
 #topic-footer-button-approve .d-button-label {
-    display:inline-block
+    display:inline-block;
 }
 
 .discourse-no-touch #topic-footer-button-approve:hover {
-    background:#060
+    background:#060;
 }
 
 #topic-footer-button-followup {
-    background: #e45735
-    color:#fff
+    background: #e45735;
+    color:#fff;
 }
 
 #topic-footer-button-followup .d-icon {
-    color:#fff
+    color:#fff;
 }
 
 #topic-footer-button-followup .d-button-label {
-    display:inline-block
+    display:inline-block;
 }
 
 .discourse-no-touch #topic-footer-button-followup:hover {
-    background:#cb3d1b
+    background:#cb3d1b;
 }
